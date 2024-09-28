@@ -9,4 +9,11 @@ Achieved a high accuracy level with error of ±1%, demonstrating precision of ro
 ## How To Duplicate This Project
 1. Just download this repository <br />
 2. Set PlatformIO work environment folder as this project's root folder <br />
-3. Build the project, if no issues, upload the code to the board. [Note: board used STMicroelectronics STM32F429I-DISC1]
+3. Build the project, if no issues, upload the code to the board. [Note: board used STMicroelectronics STM32F429I-DISC1] <br />
+4. Board must be attached up-right to the side of the lower part of leg (as low as possible). <br />
+
+## Team Members
+1. Durga Avinash Kodavalla | dk4852
+2. Tianheng Xiang | tx701
+3. Kaustubh Agarwal | ka3210
+4. Haris Sahmanovic | hs5472
