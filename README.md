@@ -14,7 +14,7 @@ Achieved a high accuracy level with error of ±1%, demonstrating precision of ro
 5. Go through the [video presentation]() from the [documents]() folder for better understanding.
 
 <br /> For more info about the board and project, please visit [documents]() folder. <br />
-Feel free to contact about the project. If so, send an email to "dk4852@nyu.edu" <br />
+Feel free to contact about the project. If so, send an email to "dk4852@nyu.edu"! <br />
 
 ## Team Members
 1. Durga Avinash Kodavalla | dk4852
